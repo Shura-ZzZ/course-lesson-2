@@ -7,5 +7,5 @@ Cowboys.java A.  2 1
 Dark.java   E. Compilation fails/Ошибка компиляции
 Feline.java G.  72 foo425 86foo
 Fishing.java  E. Line E
-Lines.java все ответы неверны
+Lines.java все ответы неверны //подумайте еще, тут все таки есть правильные объявления
 Mutant.java  A.  .abc .  D.  .cbad .
