@@ -7,7 +7,7 @@ public class Polydrome {
 
     }
     private static Boolean isPolydrome(String str){
-        return str.toLowerCase().replaceAll(" ", "")
+        return str.toLowerCase().replaceAll(" ", "") //лучше использовать replace вместо replaceAll
                 .equals(new StringBuilder(str).reverse().toString().toLowerCase().replaceAll(" ", ""));
     }
 }
